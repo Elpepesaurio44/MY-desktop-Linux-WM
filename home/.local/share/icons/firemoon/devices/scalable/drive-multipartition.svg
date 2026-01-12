@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="drive-multipartition.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1152"
+     inkscape:window-height="802"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-5.8305085"
+     inkscape:cy="32"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <linearGradient
+     id="_lgradient_21"
+     x1="0.30508474"
+     y1="0.49537748"
+     x2="0.81972265"
+     y2="0.59707242"
+     gradientTransform="matrix(44,0,0,44,2,2)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:#5555ff;stop-opacity:1"
+       id="stop2" />
+    <stop
+       offset="100%"
+       stop-opacity="1"
+       style="stop-color:rgb(250,0,117)"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="m 36.5,42 h -2 v 0 -2 h 2 z m 3,-0.268 C 40.994,41.386 42,40.74 42,40 v 0 H 39.5 Z M 31.5,42 h -2 v 0 -2 h 2 z m 5.499,-20.873 c -0.02,2.357 -0.68,4.736 -2.041,6.868 -3.86,6.048 -11.904,7.824 -17.952,3.963 C 28.037906,25.850644 10.369508,19.897749 13.042,14.006 16.098,9.219 21.774,7.109 27.007,8.35 L 24,21.001 36.999,21.127 v 0 z M 26.5,19.073 h 9 c 0.308,-2.358667 -0.358667,-4.358667 -2,-6 -1.641333,-1.641333 -3.308,-2.308 -5,-2 l -2,8 v 0 z M 6,11 v 0 c 0,1.104 -0.896,2 -2,2 v 0 C 2.896,13 2,12.104 2,11 V 11 9 C 2,5.137 5.137,2 9,2 h 30 c 3.863,0 7,3.137 7,7 v 23 0 c 0,1.104 -0.896,2 -2,2 v 0 c -1.104,0 -2,-0.896 -2,-2 V 32 11 C 42,8.24 39.76,6 37,6 H 11 C 8.24,6 6,8.24 6,11 Z M 26.5,42 H 11 C 8.24,42 6,39.76 6,37 V 20 20 C 6,18.896 5.104,18 4,18 v 0 c -1.104,0 -2,0.896 -2,2 v 0 19 c 0,3.863 3.137,7 7,7 h 30 c 3.863,0 7,-3.137 7,-7 v -1 c 0,-1.104 -0.896,-2 -2,-2 H 14 v 0 c -1.104,0 -2,0.896 -2,2 v 0 c 0,1.104 0.896,2 2,2 v 0 0 0 h 12.5 z"
+     id="path7"
+     style="fill:url(#_lgradient_21);fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccscccccccccccssssccccccsssccccssccccccsssssscccccccccc" />
+</svg>

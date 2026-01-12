@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+NoDisplay=false
+Name=Rofi Run
+GenericName=Launcher
+Comment=Launcher
+Categories=Utility;
+Keywords=ejecutar;buscar apps;appmanager;launcher;
+TryExec=rofi -show drun
+Exec=rofi -show drun
+# Thanks to quequotion for providing this file!
+Icon=/home/elpepesaurio44/Logo.png

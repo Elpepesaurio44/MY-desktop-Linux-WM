@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="java.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1152"
+     inkscape:window-height="802"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-5.8305085"
+     inkscape:cy="32"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <linearGradient
+     id="_lgradient_3"
+     x1="0"
+     y1="0.5"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(44,0,0,44,2,2)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:#2ad4ff;stop-opacity:1"
+       id="stop2" />
+    <stop
+       offset="98.26086956521739%"
+       stop-opacity="1"
+       style="stop-color:#0066ff;stop-opacity:1"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="m 41.999,25.34 v 0 c 0.083,-1.098 1.046,-1.925 2.148,-1.845 v 0 c 1.102,0.08 1.93,1.041 1.847,2.145 v 0 C 45.584,31.17 43.091,36.35 39.016,40.13 34.941,43.9 29.584,46 24.027,46 18.19,46 12.583,43.68 8.448,39.56 4.323,35.43 2,29.83 2,24 2,18.17 4.323,12.57 8.448,8.44 12.583,4.32 18.19,2 24.027,2 v 0 c 1.105,0 2.003,0.896 2.003,2 v 0 c 0,1.104 -0.898,2 -2.003,2 V 6 C 19.251,6 14.666,7.9 11.281,11.27 7.907,14.65 6.005,19.23 6.005,24 c 0,4.77 -0.931,12.18 2.443,15.56 3.385,3.37 10.803,2.44 15.579,2.44 4.546,0 8.931,-1.71 12.265,-4.8 3.334,-3.09 5.367,-7.33 5.707,-11.86 v 0 z M 32.408,8.06 v 0 C 31.429,7.547 31.053,6.337 31.566,5.36 v 0 C 32.08,4.383 33.292,4.007 34.27,4.52 v 0 c 5.116907,2.8246043 8.193209,6.102806 9.582,9.89 v 0 c 0.486,0.993 0.073,2.192 -0.922,2.675 v 0 c -0.994,0.483 -2.197,0.068 -2.683,-0.925 v 0 C 39.122471,12.425935 44.398661,5.7973711 32.408,8.06 Z M 20.326,30.654 c 0,0 -1.07,0.622 0.762,0.832 2.218,0.253 3.352,0.217 5.797,-0.245 0,0 0.644,0.403 1.542,0.752 -5.482,2.348 -12.407,-0.136 -8.102,-1.339 h 0.001 z m -0.671,-3.066 c 0,0 -1.199,0.889 0.633,1.078 2.371,0.245 4.242,0.265 7.482,-0.359 0,0 0.447,0.454 1.151,0.703 -6.627,1.938 -14.007,0.152 -9.266,-1.422 z m 5.647,-5.2 c 1.351,1.555 -0.355,2.954 -0.355,2.954 0,0 3.43,-1.77 1.855,-3.988 -1.471,-2.067 -2.599,-3.094 3.507,-6.635 0,0 -9.585,2.393 -5.007,7.669 z m 7.25,10.533 c 0,0 0.791,0.653 -0.872,1.157 -3.164,0.959 -13.169,1.248 -15.948,0.039 -0.998,-0.435 0.875,-1.038 1.464,-1.165 0.614,-0.133 0.965,-0.109 0.965,-0.109 -1.111,-0.782 -7.181,1.537 -3.083,2.202 11.176,1.811 20.372,-0.816 17.473,-2.124 z M 20.84,24.412 c 0,0 -5.089,1.209 -1.802,1.648 1.388,0.186 4.154,0.143 6.732,-0.073 2.106,-0.177 4.22,-0.555 4.22,-0.555 0,0 -0.742,0.319 -1.279,0.685 -5.169,1.36 -15.152,0.727 -12.277,-0.663 2.429,-1.176 4.406,-1.042 4.406,-1.042 z m 9.129,5.102 c 7.084508,-0.491712 2.824,-5.352 1.129,-4.999 -0.415,0.087 -0.601,0.161 -0.601,0.161 0,0 0.155,-0.242 0.449,-0.346 3.354,-1.178 7.153339,5.105119 -1.082,5.322 0,0 0.081,-0.073 0.105,-0.138 z M 26.802,9 c 0,0 2.909,2.91 -2.76,7.385 -4.545,3.59 -1.036,5.637 -0.001,7.976 -2.654,-2.394 -4.6,-4.502 -3.295,-6.463 1.917,-2.879 7.23,-4.275 6.056,-8.898 z m -5.446,27.912 c 5.042,0.323 12.786,-0.179 12.97,-2.565 0,0 -0.353,0.904 -4.167,1.622 -4.304,0.81 -9.613,0.716 -12.761,0.196 0,0 0.645,0.534 3.958,0.747 z"
+     id="path7"
+     inkscape:connector-curvature="0"
+     style="fill:url(#_lgradient_3);fill-rule:evenodd"
+     sodipodi:nodetypes="cccccccscsccccccccscsscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

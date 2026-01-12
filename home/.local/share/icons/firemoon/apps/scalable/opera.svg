@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48px"
+   height="48px"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="opera.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1152"
+     inkscape:window-height="802"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-4.3728814"
+     inkscape:cy="24"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <linearGradient
+     id="_lgradient_7"
+     x1="-0.98220009"
+     y1="0.19657461"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(41.001,0,0,42.9,3.5,2.55)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:#ff0000;stop-opacity:1"
+       id="stop2" />
+    <stop
+       offset="98.69565217391305%"
+       stop-opacity="1"
+       style="stop-color:#ff2ad4;stop-opacity:1"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d=" M 38.59 15.88 L 38.59 15.88 C 38.099 14.892 38.502 13.689 39.49 13.195 L 39.49 13.195 C 40.478 12.701 41.683 13.102 42.18 14.09 L 42.18 14.09 C 43.67 17.1 44.47 20.41 44.5 23.77 C 44.5 23.77 44.5 23.78 44.5 23.78 L 44.5 24.01 C 44.5 24.02 44.5 24.02 44.5 24.02 C 44.53 29.59 42.42 34.97 38.62 39.04 C 36.8 40.99 34.61 42.57 32.18 43.68 C 29.69 44.81 26.98 45.42 24.24 45.45 C 24.24 45.45 24.23 45.45 24.23 45.45 L 24.03 45.45 C 24.02 45.45 24.02 45.45 24.02 45.45 C 21.28 45.45 18.57 44.88 16.06 43.77 C 13.62 42.69 11.41 41.14 9.56 39.21 C 5.71 35.17 3.54 29.81 3.5 24.22 C 3.5 24.22 3.5 24.22 3.5 24.22 L 3.5 23.99 C 3.5 23.98 3.5 23.98 3.5 23.98 C 3.47 18.41 5.58 13.03 9.38 8.96 C 11.2 7.01 13.39 5.43 15.82 4.32 C 18.31 3.19 21.02 2.58 23.76 2.55 C 23.76 2.55 23.77 2.55 23.77 2.55 L 23.97 2.55 C 23.98 2.55 23.98 2.55 23.98 2.55 C 26.08 2.55 28.16 2.89 30.15 3.54 L 30.15 3.54 C 31.199 3.888 31.77 5.021 31.425 6.07 L 31.425 6.07 C 31.08 7.119 29.949 7.688 28.9 7.34 L 28.9 7.34 C 27.32 6.82 25.66 6.55 23.99 6.55 L 23.8 6.55 C 21.62 6.58 19.46 7.06 17.48 7.96 C 15.53 8.85 13.77 10.12 12.3 11.69 C 9.2 15.02 7.48 19.41 7.5 23.96 L 7.5 24.2 C 7.53 28.76 9.31 33.14 12.46 36.44 C 13.94 38 15.72 39.24 17.68 40.11 C 19.68 40.99 21.83 41.45 24.01 41.45 L 24.2 41.45 C 26.38 41.42 28.54 40.94 30.52 40.04 C 32.47 39.15 34.23 37.88 35.7 36.31 C 38.8 32.98 40.52 28.59 40.5 24.04 L 40.5 23.81 C 40.47 21.05 39.82 18.34 38.59 15.88 Z "
+     id="path7"
+     fill="url(#_lgradient_7)"
+     style="fill:url(#_lgradient_7)" />
+  <linearGradient
+     id="_lgradient_8"
+     x1="28.953461"
+     y1="17.345814"
+     x2="47.9702"
+     y2="31.501547"
+     gradientTransform="scale(0.98026786,1.0201293)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:#ff2a2a;stop-opacity:1"
+       id="stop9" />
+    <stop
+       offset="100%"
+       stop-opacity="1"
+       style="stop-color:#2b0000;stop-opacity:1"
+       id="stop11" />
+  </linearGradient>
+  <path
+     d="m 28.36,14.271 c 3.346,1.673 5.722,5.195 5.877,9.347 0.222,5.94 -4.186,10.934 -9.836,11.144 -5.65,0.211 -10.417,-4.441 -10.638,-10.38 13.50666,-3.626479 4.187,-10.934 9.836,-11.144 1.108,-0.041 2.182,0.104 3.194,0.41 z"
+     stroke-miterlimit="3"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="vector-effect:non-scaling-stroke;fill:none;stroke:url(#_lgradient_8);stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3"
+     sodipodi:nodetypes="ccccccc" />
+</svg>

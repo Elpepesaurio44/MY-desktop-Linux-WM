@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="battery.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1152"
+     inkscape:window-height="802"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-5.8305085"
+     inkscape:cy="32"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <linearGradient
+     id="_lgradient_27"
+     x1="0.27118644"
+     y1="0.69392985"
+     x2="0.70056498"
+     y2="0.41486007"
+     gradientTransform="matrix(36,0,0,43,6,3)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:#ff7f2a;stop-opacity:1"
+       id="stop2" />
+    <stop
+       offset="97.82608695652173%"
+       stop-opacity="1"
+       style="stop-color:#ff5599;stop-opacity:1"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="M 20,8 V 7 h 8 v 1 z m -9,16 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,0.896 2,2 0,1.104 -2.228053,2.14015 -2,3.220339 C 14.133975,32.591479 11.165982,25.502356 11,24 Z m 22,0 c 4,0 0.896,-3.220339 2,-3.220339 1.104,0 2,2.116339 2,3.220339 0,1.104 -0.896,2 -2,2 -1.104,0 -3.104,-2 -2,-2 z m 5,0 v -2 -8 c 0,-1.104 -0.896,-2 -2,-2 H 12 c -1.104,0 -2,0.896 -2,2 v 8 2 2 14 c 0,1.104 0.896,2 2,2 h 24 c 1.104,0 2,-0.896 2,-2 V 26 Z m 4,0 V 22 12 C 42,9.792 40.208,8 38,8 H 32 V 5 C 32,3.896 31.104,3 30,3 H 18 C 16.896,3 16,3.896 16,5 V 8 8 8 8 H 10 C 7.792,8 6,9.792 6,12 v 10 2 2 16 c 0,2.208 3.8258983,5.423729 6.033898,5.423729 l 3.79661,0.20339 C 18.038508,47.627119 42,44.208 42,42 V 26 Z M 22.382,16.429 v 0 c 0.637,-1.17 1.156,-2.126 1.156,-2.134 v 0 c 0.001,-0.008 0.18,0.017 0.4,0.056 v 0 l -0.474,10.218 7.013,0.231 c 1.331,0.043 1.897,1.03 1.263,2.201 l -5.725,10.585 -1.155,2.12 v 0 l 0.012,-0.119 0.061,-10.141 -7.013,-0.23 c -1.331,-0.044 -1.897,-1.031 -1.264,-2.202 z"
+     id="path7"
+     style="fill:url(#_lgradient_27);fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccsccsssccsssssccsssscccssssccccsscssssccccsscccsssccccccccccccccccc" />
+</svg>

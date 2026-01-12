@@ -1,0 +1,90 @@
+#---- Configuración personalizada Estética "Red Floral" ----
+# Posición: Top | Estilo: Solo Iconos | Colores: Rojo y Negro
+
+#-------------------------------------
+# Fondos (Backgrounds)
+#-------------------------------------
+
+# Background 1: Panel Principal (Borde rojo visible)
+rounded = 5
+border_width = 2
+border_sides = TBLR
+background_color = #1a1a1a 90
+border_color = #d62828 100
+
+# Background 2: Tareas inactivas (Iconos normales)
+rounded = 5
+border_width = 1
+background_color = #111111 0
+border_color = #333333 0
+
+# Background 3: Tarea ACTIVA (Fondo rojo brillante)
+rounded = 5
+border_width = 1
+background_color = #d62828 100
+border_color = #f1f1f1 40
+
+# Background 4: Tarea urgente
+rounded = 5
+border_width = 1
+background_color = #ff0000 100
+border_color = #ffffff 100
+
+# Background 7: Escritorio activo
+rounded = 2
+border_width = 1
+background_color = #d62828 100
+border_color = #777777 30
+
+#-------------------------------------
+# Panel
+#-------------------------------------
+panel_items = L:TSC
+panel_size = 100% 35
+panel_margin = 0 0
+panel_padding = 4 4 4
+panel_background_id = 1
+panel_position = top center horizontal
+panel_layer = normal
+panel_window_name = tint2
+disable_transparency = 0
+mouse_effects = 1
+
+#-------------------------------------
+# Barra de tareas (Configuración de Iconos)
+#-------------------------------------
+taskbar_mode = single_desktop
+taskbar_padding = 0 0 2
+taskbar_name_active_background_id = 7
+taskbar_name_font_color = #dddddd 100
+taskbar_name_active_font_color = #ffffff 100
+
+#-------------------------------------
+# Tareas (SOLO ICONOS)
+#-------------------------------------
+task_text = 0                # 0 Desactiva el texto (solo iconos)
+task_icon = 1                # 1 Activa los iconos
+task_centered = 1
+task_maximum_size = 40 35    # Tamaño cuadrado para iconos
+task_padding = 6 3 4
+task_background_id = 2
+task_active_background_id = 3
+task_urgent_background_id = 4
+mouse_right = close
+
+#-------------------------------------
+# Reloj
+#-------------------------------------
+time1_format = %H:%M
+time1_font = sans Bold 10
+clock_font_color = #f1f1f1 100
+clock_padding = 10 0
+
+#-------------------------------------
+# Separador
+#-------------------------------------
+separator = new
+separator_background_id = 0
+separator_color = #d62828 50
+separator_style = empty
+separator_size = 20

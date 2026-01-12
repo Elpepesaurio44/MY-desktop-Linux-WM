@@ -1,0 +1,41 @@
+[window]
+padding = { x = 15, y = 15 }
+dynamic_title = true
+opacity = 0.85
+blur = true
+
+[font]
+#normal = { family = "MesloLGS NF", style = "Regular" }
+size = 11.0
+
+[colors.primary]
+background = '#1a1b1c'
+foreground = '#d8d8d8'
+
+[colors.cursor]
+cursor = '#e63946'
+text = '#1a1b1c'
+
+[colors.selection]
+background = '#a31d1d'
+text = '#ffffff'
+
+[colors.normal]
+black =   '#1a1b1c'
+red =     '#a31d1d'
+green =   '#4e5d4c'
+yellow =  '#c29a4f'
+blue =    '#4a5c6a'
+magenta = '#7b4b5e'
+cyan =    '#5e818a'
+white =   '#d8d8d8'
+
+[colors.bright]
+black =   '#3d3d3d'
+red =     '#e63946'
+green =   '#768a73'
+yellow =  '#e9c46a'
+blue =    '#6a8ca3'
+magenta = '#a66b81'
+cyan =    '#8db0b8'
+white =   '#ffffff'

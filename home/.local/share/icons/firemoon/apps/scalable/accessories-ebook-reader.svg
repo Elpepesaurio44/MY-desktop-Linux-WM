@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="accessories-ebook-reader.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1152"
+     inkscape:window-height="802"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-5.8305085"
+     inkscape:cy="32"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <linearGradient
+     id="_lgradient_54"
+     x1="0.0681818181817685"
+     y1="0.23295454545454564"
+     x2="0.9384302091713562"
+     y2="0.779389581657281"
+     gradientTransform="matrix(38,0,0,46,4,1)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="1.3043478260869565%"
+       stop-opacity="1"
+       style="stop-color:rgb(55,236,186)"
+       id="stop2" />
+    <stop
+       offset="97.82608695652173%"
+       stop-opacity="1"
+       style="stop-color:rgb(114,175,211)"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="M 12.5,35 H 9 C 8.658,35 8.323,35.034 8,35.1 L 5.559322,22.033898 C 5.2552495,20.406054 9.344,5 11,5 h 1.5 v 0 17.62 c 0,1.656 0.951,2.049 2.121,0.879 L 18,20.12 l 3.379,3.379 c 1.17,1.17 2.121,0.777 2.121,-0.879 V 5 H 35 c 1.656,0 5.762154,7.734463 5.237288,9.305085 L 38,21 v 0 c 0,1.104 0.896,2 2,2 v 0 c 1.104,0 2,-0.896 2,-2 V 21 6 C 42,3.24 39.76,1 37,1 H 9 C 6.24,1 4,3.24 4,6 v 33 1 1 1 c 0,2.76 2.24,5 5,5 h 31 v 0 c 1.104,0 2,-0.896 2,-2 v 0 c 0,-1.104 -0.896,-2 -2,-2 v 0 L 23.627119,45.847458 C 22.539445,46.036618 8,42.104 8,41 v 0 0 c 0,-1.104 0.896,-2 2,-2 h 27 c 2.76,0 5,-2.24 5,-5 v -3 0 c 0,-1.104 -0.896,-2 -2,-2 v 0 c -1.104,0 -2,0.896 -2,2 v 0 2 c 0,1.104 -10.900352,5.135544 -11.966102,4.847458 L 15.5,35 v -5 0 c 0,-0.828 -0.672,-1.5 -1.5,-1.5 v 0 c -0.828,0 -1.5,0.672 -1.5,1.5 v 0 z m 3,-30 h 5 v 13.38 l -1.793,-1.793 c -0.39,-0.39 -1.024,-0.39 -1.414,0 L 15.5,18.38 Z"
+     id="path7"
+     inkscape:connector-curvature="0"
+     style="fill:url(#_lgradient_54);fill-rule:evenodd"
+     sodipodi:nodetypes="cscssccsscsscssccccccsssscccssccccccscccsssccccccsscccccccccccsscc" />
+</svg>
